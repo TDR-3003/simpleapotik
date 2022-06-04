@@ -1,1 +1,5 @@
-"# simpleapotik" 
+# simpleapotik
+
+CRUD APOTIK, ORDER OBAT, STORED ORDER AND FORDWARD TO WHATSAPP
+
+
